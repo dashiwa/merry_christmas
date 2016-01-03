@@ -17,7 +17,7 @@
 
 
         function f() {
-                var i = path+"/js/ny.swf";
+                var i = '/'+path+"/js/ny.swf";
                 i = i + "?nc=" + (new Date().getTime());
                 swfobject.embedSWF(i, "z-audio__player", "1", "1", "9.0.0", null, {}, {
                     allowScriptAccess: "always",
