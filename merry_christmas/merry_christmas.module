@@ -36,5 +36,13 @@ function merry_christmas_page_build(&$page) {
   drupal_add_js($path . '/js/swfobject.min.js', array('scope' => 'footer'));
   $page['page_top']['merry_christmas']['#markup'] = _merry_christmas_content();
 
+
+
+  $settings = array (
+    'path' => $path
+  );
+
+  drupal_add_js( array ("merry_christmas" => $settings), 'setting');
+
 }
 

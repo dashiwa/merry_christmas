@@ -10,8 +10,14 @@
                 m(this)
             });
 
-            function f() {
-                var i = "ny.swf";
+
+
+
+        var path = Drupal.settings['merry_christmas']['path'];
+
+
+        function f() {
+                var i = path+"/js/ny.swf";
                 i = i + "?nc=" + (new Date().getTime());
                 swfobject.embedSWF(i, "z-audio__player", "1", "1", "9.0.0", null, {}, {
                     allowScriptAccess: "always",
