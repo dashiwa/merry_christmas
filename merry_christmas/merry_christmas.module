@@ -1,0 +1,40 @@
+<?php
+
+/**
+ * @file
+ */
+
+
+
+/**
+ * Implements hook_theme()
+ */
+function merry_christmas_theme(){
+  return array(
+    'merry_christmas_balls' => array(
+    'path'=> drupal_get_path('module', 'merry_christmas') . '/template/',
+    'template' => 'merry_christmas'
+    ),
+  );
+}
+
+
+/**
+ * Return block content
+ */
+function _merry_christmas_content() {
+  return theme('merry_christmas_balls');
+}
+
+/**
+ * Implements hook_page_build().
+ */
+function merry_christmas_page_build(&$page) {
+  $path = drupal_get_path('module', 'merry_christmas');
+  drupal_add_css($path . '/css/merry_christmas.css');
+  drupal_add_js($path . '/js/merry_christmas.js', array('scope' => 'footer'));
+  drupal_add_js($path . '/js/swfobject.min.js', array('scope' => 'footer'));
+  $page['page_top']['merry_christmas']['#markup'] = _merry_christmas_content();
+
+}
+
