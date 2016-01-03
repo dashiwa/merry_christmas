@@ -5,7 +5,7 @@
     display: none;
 }
 .b-page_newyear .b-head-decor {
-    background-image: url("http://www.akvalang.com/forum/newyear/balls/b-head-decor_newyear.png");
+    background-image: url("img/balls/b-head-decor_newyear.png");
     background-position: 0 0;
     background-repeat: repeat-x;
     display: block;
@@ -110,52 +110,52 @@
     width: 49px;
 }
 .b-ball_n1 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_n1.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_n1.png") no-repeat scroll 0 0;
 }
 .b-ball_n2 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_n2.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_n2.png") no-repeat scroll 0 0;
 }
 .b-ball_n3 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_n3.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_n3.png") no-repeat scroll 0 0;
 }
 .b-ball_n4 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_n4.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_n4.png") no-repeat scroll 0 0;
 }
 .b-ball_n5 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_n5.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_n5.png") no-repeat scroll 0 0;
 }
 .b-ball_n6 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_n6.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_n6.png") no-repeat scroll 0 0;
 }
 .b-ball_n7 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_n7.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_n7.png") no-repeat scroll 0 0;
 }
 .b-ball_n8 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_n8.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_n8.png") no-repeat scroll 0 0;
 }
 .b-ball_n9 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_n9.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_n9.png") no-repeat scroll 0 0;
 }
 .b-ball_i1 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_i1.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_i1.png") no-repeat scroll 0 0;
 }
 .b-ball_i2 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_i2.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_i2.png") no-repeat scroll 0 0;
 }
 .b-ball_i3 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_i3.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_i3.png") no-repeat scroll 0 0;
 }
 .b-ball_i4 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_i4.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_i4.png") no-repeat scroll 0 0;
 }
 .b-ball_i5 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_i5.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_i5.png") no-repeat scroll 0 0;
 }
 .b-ball_i6 .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_i6.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_i6.png") no-repeat scroll 0 0;
 }
 .b-ball_ya .b-ball__i {
-    background: rgba(0, 0, 0, 0) url("/sites/default/balls/b-ball_ya.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("img/balls/b-ball_ya.png") no-repeat scroll 0 0;
 }
 .b-ball_i1 {
     height: 71px;
